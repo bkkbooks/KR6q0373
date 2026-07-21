@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0373_000-X.yaml, hash: 'sha256:503c085556619c279616e91f13d1136632bae5f968a4dae32c547b9bcf71db2e'}
+  - {seq: 0, filename: KR6q0373_000-X.yaml, hash: 'sha256:8aa38b30bf1236ca599f7c1d6280ab39249207ff2723045386e7376058498c7d'}
   - {seq: 1, filename: KR6q0373_001-X.yaml, hash: 'sha256:14fc8688c943c15b66d24bd19dd825193f2ead2eddbcfcbb273561031ab34d55'}
   - {seq: 2, filename: KR6q0373_002-X.yaml, hash: 'sha256:7de089dd2b642f442e09ccf012858ccebca700a893c1ad906b6da090bf9a8bfc'}
   - {seq: 3, filename: KR6q0373_003-X.yaml, hash: 'sha256:cb06b057c2b142b4930fbc48f4deef133710135ea4edeaac6d24bee0a9ef4c90'}
@@ -27,7 +27,7 @@ assets:
   - {seq: 5, filename: KR6q0373_005-X.yaml, hash: 'sha256:5020201981b8d83e14415fe4b0044120de8b535817912e6ad591e7bcaff81abe'}
   - {seq: 6, filename: KR6q0373_006-X.yaml, hash: 'sha256:c22fe92475f6b119a603ec1882f0ac46213f76494a1b20dc752e630d8c7c6f12'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0373_000-X.markers.yaml, hash: 'sha256:09d5204ca62f51f901b92e41634ee2098ddba0a31068a2c6be2174d042b9f02c'}
+  - {seq: 0, role: markers, filename: assets/KR6q0373_000-X.markers.yaml, hash: 'sha256:8f15af3969cd57018a6ec02c379d112a482a061aaaafc39fa86109c313cd5b8d'}
   - {seq: 1, role: markers, filename: assets/KR6q0373_001-X.markers.yaml, hash: 'sha256:dc8efd280ef00ef0facc52a742be0b803c88bc35d3ce4b82bce2862df117cbd4'}
   - {seq: 2, role: markers, filename: assets/KR6q0373_002-X.markers.yaml, hash: 'sha256:6c6399901ed8ec8ab26258386102ce886bc4823ca62a0b7a8fa291a7a4ee6e66'}
   - {seq: 3, role: markers, filename: assets/KR6q0373_003-X.markers.yaml, hash: 'sha256:9cd51b4c718a0a8e23ac67f6d55e8f20fc7511568e6d14b5ac2f10ec3b9319cd'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0373_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1443-A 長慶宗寶獨禪師語錄序 〔龍其〕
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0373_X_000-mulu-2
     span:
-    - front
+    - body
     - 378
     - 378
   label: No. 1443-B 自序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0373_X_000-mulu-3
     span:
-    - front
+    - body
     - 905
     - 905
   label: 長慶宗寶獨禪師語錄目錄
@@ -1625,4 +1625,4 @@ table_of_contents:
   label: 長慶空隱獨和尚墖銘
   type: mulu
   level: 1
-hash: sha256:31d1ed1caec09cf996862f44c4ecd929894ea27ef3fa4bdbc25a85e8b4853c1d
+hash: sha256:ee47ed1b6fe15a0da826b6fb37992f1a947a01b8d659396a0d17bd1d6aa256c2
